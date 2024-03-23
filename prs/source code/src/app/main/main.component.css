@@ -1,0 +1,48 @@
+.main_btn{
+  margin-top:50px ;
+  height:400px;
+  width:400px;
+  border-radius: 50%;
+  font-size: 54px;
+
+}
+.hum1{
+    height:10px;
+    padding: 30px;
+    color: aliceblue;
+    font-size:20px;
+
+}
+.human{
+    margin:10px;
+    height:150px;
+    width: 150px;
+    font-size:18px;
+    font-weight: 600px;
+    text-transform: uppercase;
+    border-radius: 20px 50px 20px 50px;
+    border-width: 15px;
+    border-color : red green yellow orange;
+}
+.human:hover{
+     background-image:linear-gradient( red yellow  orange);
+     color: black;
+     height: 160px;
+     width: 160px;
+}
+  .main_box{
+  border:solid 5px red;
+  margin-top:45px;
+  border-radius: 5%;
+  border-color: #8c98c0 #172430 #2c3742 #37414b;
+
+}
+
+.game_vid{
+  border:double 15px;
+  border-radius:30%;
+  border-color: #ce68ac #df5b8b #db8ecc #c49abb   ;
+  height: 200px;
+  width: 200px;
+
+}
